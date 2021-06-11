@@ -1,0 +1,185 @@
+#EXTM3U url-tvg=""
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Do not spread the links. [Credits to ATBPH]" tvg-logo="https://www.dropbox.com/s/oxwwhnedcdvqqo6/atbph.jpg?dl=1" group-title="(no group)",Do not spread the links. [Credits to ATBPH] 
+https://www.dropbox.com/s/ngbjtgbn2xtyvtw/XiaoYing_Video_1622805004774.mp4?dl=1 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABS CBN" tvg-logo="" group-title="(no group)",ABS CBN
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA 7. [Kapuso]" tvg-logo="https://www.dropbox.com/s/bc99sgxqxnn5gp1/GMA.png?dl=1" group-title="(no group)",GMA 7. [Kapuso]
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/99.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="" group-title="(no group)",PBO
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/110.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeepney TV" tvg-logo="" group-title="(no group)",Jeepney TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/106.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="" group-title="(no group)",GTV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/107.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="" group-title="(no group)",TV5
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/102.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANC" tvg-logo="" group-title="(no group)",ANC
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/103.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="" group-title="(no group)",PTV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/101.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemaone" tvg-logo="" group-title="(no group)" ,CinemaOne
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/109.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="" group-title="(no group)",CNN PH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/104.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="" group-title="(no group)",Cinemo
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/127.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZRH" tvg-logo="" group-title="(no group)",DZRH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/108.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Ph" tvg-logo="" group-title="(no group)",One Ph
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/115.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="" group-title="(no group)",One Sports
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/114.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Solar Sports" tvg-logo="" group-title="(no group)",Solar Sports
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/118.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBA Rush" tvg-logo="" group-title="(no group)",PBA Rush
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/122.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dep Ed" tvg-logo="" group-title="(no group)",Dep Ed
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/123.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radyo" tvg-logo="" group-title="(no group)",Radyo
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/124.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Knowledge Ch" tvg-logo="" group-title="(no group)",Knowledge Ch
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/135.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC" tvg-logo="" group-title="(no group)",IBC
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/98.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kabayan" tvg-logo="" group-title="(no group)",Kabayan
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/137.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A2Z" tvg-logo="" group-title="(no group)", A2Z 
+https://www.dropbox.com/s/sh6mqcwiaqr31lo/Bryvids.mp4?dl=1
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="(no group)",Cinemax
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/111.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickolodeon" tvg-logo="" group-title="(no group)",Nickolodeon
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/105.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="" group-title="(no group)",FOX
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/112.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="(no group)",HBO
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/113.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYX" tvg-logo="" group-title="(no group)",MYX
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/116.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox2" tvg-logo="" group-title="(no group)",Fox2
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/117.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox3" tvg-logo="" group-title="(no group)",Fox3
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/119.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="(no group)",NBA TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/120.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="(no group)",AXN
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/121.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax" tvg-logo="" group-title="(no group)",Animax
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/125.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney CH" tvg-logo="" group-title="(no group)",Disney CH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/126.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="(no group)", History
+https://www.dropbox.com/s/sh6mqcwiaqr31lo/Bryvids.mp4?dl=1
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="(no group)",Nat Geo
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/128.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Metro Style" tvg-logo="" group-title="(no group)",Metro Style
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/129.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETC" tvg-logo="" group-title="(no group)",ETC
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/130.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="" group-title="(no group)",Boomerang
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/132.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK" tvg-logo="" group-title="(no group)",NHK
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/133.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby Boo" tvg-logo="" group-title="(no group)",Baby Boo
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/136.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang" tvg-logo="" group-title="(no group)",Arirang
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/138.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="(no group)",CNN
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/139.m3u8
+
+
+
+
+
+
+
+
